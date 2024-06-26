@@ -1,0 +1,79 @@
+# Topics
+
+- Primitive Data Types
+    - int
+    - char
+    - boolean
+    - float
+    - double
+- Comments
+- Conditional Statements
+    - if/else if/else
+    - &&/||/!
+    - Comparison Operators
+    - switch/case/default statement: return to later
+- Mathematical Operators
+    - +, -, /, *
+- While Loop
+    - regular while loop
+    - do-while loop
+- For loop
+    - for(start; stop; step)
+    - for-each pattern: return to later
+- Functions
+    - parameters
+    - return types
+    - void functions
+    - start it all out as static and public first
+- Strings
+    - .equals/.equalsIgnoreCase
+    - .compareTo/.compareToIgnoreCase
+    - .length()
+- Arrays
+    - Initializing/Instantiating
+    - Accessing values
+    - Updating values
+    - .length
+    - Iterating through an Array
+- 2D Arrays
+    - Accessing values
+    - Updating values
+    - .length
+    - Iterating through a 2D Array
+- Exception Handling
+    - try/catch/finallly: could skip but would be good to cover too
+- Classes
+    - Getters and Setters
+    - this keyword
+    - Encapsulation
+    - Abstraction
+        - public/private/protected/default
+    - Constructor
+    - Methods
+    - Static keyword
+- Inheritance
+    - extends keyword
+    - Method Overloading
+    - Overriding
+    - is-a relationship
+    - has-a relationship
+    - super keyword
+    - Polymorphism
+    - Casting (Upcasting/Downcasting)
+- Abstract Classes
+    - extends keyword
+- Interface
+    - implements keyword
+    - default override
+- ArrayList
+    - .get()
+    - .add()
+    - .remove()
+    - .size()
+- Recursion
+    - base case
+    - recursive case
+- Basic algorithms
+    - Search
+    - Sort
+- Memory Diagram: Didn’t know some schools talk about this, so may skip it, but kinda cool that it gets mentioned.

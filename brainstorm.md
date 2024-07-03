@@ -108,13 +108,20 @@
 
 #### Activities
 
-- Person class
+- Card class
 
 ### Lesson 2
+
+#### Topics
 
 - Classes
     - Static v Instance methods
 - ArrayList
+
+#### Activities
+
+- Card Class
+- Deck Class
 
 ## Day 5
 

@@ -99,44 +99,52 @@
 
 #### Topics
 
-- Classes
-    - this keyword
-    - Getters and Setters
-    - Abstraction
-    - Constructors
-    - Methods
+- Arrays continued
+- 2D Arrays continued
 
 #### Activities
 
-- Card class
+- Dice Data
 
 ### Lesson 2
 
 #### Topics
 
 - Classes
-    - Static v Instance methods
+    - this keyword
+    - Getters and Setters
+    - Abstraction
+    - Constructors
+    - Methods
+    - toString override
+
+#### Activities
+
+- Card class
+
+## Day 5
+
+### Lesson 1
+
+#### Topics
+
+- Classes cont.
+- Static v Instance
+
+#### Activities
+
+- Student class
+- Static count of students
+
+### Lesson 2
+
+#### Topics
+
+- Classes cont.
 - ArrayList
 
 #### Activities
 
 - Card Class
 - Deck Class
-
-## Day 5
-
-### Lesson 1
-
-- Inheritance
-    - extends keyword
-    - Method overloading
-    - Method overriding
-    - is-a
-    - has-a
-    - super keyword
-
-### Lesson 2
-
-- Interface
-    - implements keyword
 

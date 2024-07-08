@@ -3,6 +3,7 @@ public class Card {
   private String suit;
   private String value;
 
+  // setup for Blackjack
   public Card(String suit, String value){
     this.suit = suit;
     this.value = value;
@@ -26,8 +27,7 @@ public class Card {
 
   @Override
   public String toString() {
-      return this.suit + this.value;
+      return this.suit +  this.value;
   }
-
 
 }

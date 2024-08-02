@@ -129,12 +129,12 @@
 #### Topics
 
 - Classes cont.
-- Static v Instance
+- ArrayList
 
 #### Activities
 
-- Student class
-- Static count of students
+- Card class
+- Deck class
 
 ### Lesson 2
 
@@ -147,4 +147,6 @@
 
 - Card Class
 - Deck Class
+- Hand class
+- BlackJack class
 

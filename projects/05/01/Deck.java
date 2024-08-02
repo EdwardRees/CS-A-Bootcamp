@@ -6,7 +6,6 @@ public class Deck {
   public Deck(){
     this.cards = new ArrayList<Card>(); // optional <Card>, can just be <> but not sure what AP Standard is, so we'll stick with pre-Java 8 templating (I think?)
     this.generateDeck();
-    this.shuffle();
   }
 
   public void generateDeck(){

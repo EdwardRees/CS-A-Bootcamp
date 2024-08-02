@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    Deck deck = new Deck();
-    System.err.println(deck);
+    BlackJack game = new BlackJack(2);
+    game.play();
   }
 }

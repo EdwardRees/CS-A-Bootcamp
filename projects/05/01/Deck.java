@@ -1,10 +1,11 @@
 import java.util.ArrayList;
 
 public class Deck {
-  private ArrayList<Card> cards;
+  private ArrayList<Card> cards; // When we declare the ArrayList, we must declare what type of values will be in the ArrayList. These cannot be primitives, and if we want to use primitive values, we must use what's called a Wrapper type. This just means int -> Integer. boolean --> Boolean. 
 
   public Deck(){
-    this.cards = new ArrayList<Card>(); // optional <Card>, can just be <> but not sure what AP Standard is, so we'll stick with pre-Java 8 templating (I think?)
+    // NOTE: An ArrayList works like an array, BUT we can add values into it. We can also delete values from an ArrayList. This is important for our deck as we can then add Cards and remove Cards from the deck itself.
+    this.cards = new ArrayList<Card>(); // optional <Card>, can just be <> but not sure what AP Standard is, so we'll stick with pre-Java 8 templates (I think?)
     this.generateDeck();
   }
 
